@@ -92,11 +92,11 @@ input:checked::before {
 
 .eye2 {
      left: 66px;
-     transform: rotate(-40deg);
+     transform: rotate(-45deg);
 }
 
 .eye2::after {
-     transform: rotate(40deg);
+     transform: rotate(45deg);
      left: -1px;
 }
 
